@@ -244,11 +244,10 @@ export const projects = [
   {
     id: 3,
     title: "HackFormers",
-    date: "Dec 2021 - Apr 2022",
     description:
       "Developed a website for the college tech fest along with the team of 5 developers",
     image:
-      "https://private-user-images.githubusercontent.com/91747704/266035091-c48ea7fd-6128-46df-9ddc-142697f9ddfd.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2OTQwMDk1NDMsIm5iZiI6MTY5NDAwOTI0MywicGF0aCI6Ii85MTc0NzcwNC8yNjYwMzUwOTEtYzQ4ZWE3ZmQtNjEyOC00NmRmLTlkZGMtMTQyNjk3ZjlkZGZkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzA5MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMwOTA2VDE0MDcyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI4MmEyZmE5NjU4NmZkYzMyN2Y2MGZhMjRiNzM4NTI4NTQ1ODliYmZlZGYxMDZjODA1OTk5ZDFkZDUzMDViNjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.x9W17ad7q8YN2UoB_1F-HgwMkHQHF4hYTXOaDcL6ijs",
+     "https://user-images.githubusercontent.com/91747704/266052570-dcdf0ad1-693c-4232-b2ce-548d725ab306.png",
     tags: ["ReactJS", "TailwindCSS", "TeamWork","Vercel"],
     category: "android app",
     github: "",
@@ -274,7 +273,6 @@ export const projects = [
   {
     id: 10,
     title: "Restaurant Reservation Website",
-    date: "Jun 2023 - Jul 2023",
     description:
       "Developed a static website using HTML, CSS and Javascript",
     image:
