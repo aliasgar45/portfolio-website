@@ -9,7 +9,7 @@ export const Bio = {
     "I am a passionate and seasoned full-stack developer with a knack for crafting robust and user-centric web applications. My expertise spans both front-end and back-end development, allowing me to seamlessly bridge the gap between design and functionality. With a keen eye for detail and a commitment to delivering high-quality code, I thrive in creating dynamic digital experiences.",
   github: "https://github.com/aliasgar45",
   resume:
-    "https://drive.google.com/file/d/1awtaMhld_tyEW0V4vB87ZQKF5eGs8riL/view?usp=sharing",
+    "https://drive.google.com/file/d/1flu32BMr9qV-6jh6FIQTMirpEcGIllZj/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/aliasgar-fatakdawala/",
   twitter: "https://twitter.com/aliasgar4508",
 };
@@ -162,7 +162,7 @@ export const experiences = [
     date: "Aug 2022 - Present",
     desc: "Developed and implemented responsive user interfaces forthe company, enhancing user engagement and simplifying invoice management.",
     desc1: "Contributed to the front-end development of an application for one of the leading domestic airlines of India, focusing on GST management.",
-    desc2: "Led a team of 2 developers forthe GeeKay Certificate Application.",
+    desc2: "Led a team of 2 developers for the GeeKay Certificate Application.",
     desc3: "Managed to save time of user by 50% by implementing advanced front-end features such as Pagination and Dynamic Forms.",
     skills: [
       "Javascript",
